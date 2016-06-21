@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Top Shelf Social]]></title>
         <description><![CDATA[Top Shelf Social]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/top-shelf-social/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 16:51:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 21 Jun 2016 16:56:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/top-shelf-social/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5456bf5f-93ef-4140-ad5f-7d6b9e63730f.jpg">]]></description>
+            <link>https://thegrid.ai/top-shelf-social/658ab844-8194-4a16-b9e8-0d8b128ce935/index.html</link>
+            <guid isPermaLink="false">658ab844-8194-4a16-b9e8-0d8b128ce935</guid>
+            <pubDate>Tue, 21 Jun 2016 16:55:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/954f785b-70d6-41cb-8572-aef47ac88e60.png">]]></description>
-            <link>undefined256a0cb5-e77c-4c92-bcda-a8f7502773f4/index.html</link>
+            <link>https://thegrid.ai/top-shelf-social/256a0cb5-e77c-4c92-bcda-a8f7502773f4/index.html</link>
             <guid isPermaLink="false">256a0cb5-e77c-4c92-bcda-a8f7502773f4</guid>
             <pubDate>Tue, 21 Jun 2016 16:50:52 GMT</pubDate>
         </item>
