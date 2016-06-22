@@ -1,4 +1,3 @@
-layout_spectrum: 0.7349388711154461
 typography_spectrum: 0.8081285657826811
 color:
   brandStrength: 0.6188970599323511
@@ -11,5 +10,8 @@ color:
     - '#F4CB89'
     - '#588C8C'
     - '#011C26'
+layout_spectrum: 0.7349388711154461
 name: Top Shelf Social
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/99c26d39-382d-4644-8c89-5c34708b2a0e.png
 title: Let's bring Innovation to Social Media Marketing
